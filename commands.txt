@@ -1,0 +1,150 @@
+1. pwd - Print the current working directory.
+2. ls - List directory contents.
+3. cd - Change the current directory.
+4. mkdir - Create a new directory.
+5. rmdir - Remove an empty directory.
+6. rm - Remove files or directories.
+7. cp - Copy files or directories.
+8. mv - Move or rename files or directories.
+9. touch - Create an empty file or update timestamp.
+10. cat - Display file contents.
+11. more - View file contents page by page.
+12. less - View file interactively.
+13. head - Display the first lines of a file.
+14. tail - Display the last lines of a file.
+15. grep - Search for patterns in a file.
+16. find - Search for files in a directory hierarchy.
+17. locate - Find a file by name using a database.
+18. which - Show the full path of a command.
+19. man - Display the manual of a command.
+20. info - Show detailed documentation of a command.
+21. uname - Show system information.
+22. df - Display disk space usage.
+23. du - Show file or directory size.
+24. top - Display real-time process information.
+25. ps - Show running processes.
+26. kill - Send a signal to terminate a process.
+27. chmod - Change file permissions.
+28. chown - Change file owner or group.
+29. chgrp - Change the group of a file.
+30. su - Switch user.
+31. sudo - Execute a command as another user.
+32. passwd - Change user password.
+33. whoami - Show the current user.
+34. id - Display user and group information.
+35. who - Show logged-in users.
+36. w - Show active users and their activity.
+37. last - Show login history.
+38. history - Show command history.
+39. alias - Create command shortcuts.
+40. unalias - Remove command aliases.
+41. echo - Print text to terminal.
+42. printf - Format and print text.
+43. date - Display the system date and time.
+44. cal - Show a calendar.
+45. time - Measure command execution time.
+46. sleep - Pause execution for a specified time.
+47. tar - Archive or extract files.
+48. zip - Compress files into a zip archive.
+49. unzip - Extract files from a zip archive.
+50. gzip - Compress files using gzip format.
+51. gunzip - Decompress gzip files.
+52. bzip2 - Compress files using bzip2.
+53. bunzip2 - Decompress bzip2 files.
+54. wget - Download a file from the web.
+55. curl - Transfer data from or to a server.
+56. scp - Securely copy files over SSH.
+57. rsync - Synchronize files and directories.
+58. ftp - Transfer files using FTP.
+59. sftp - Secure file transfer over SSH.
+60. ssh - Connect to a remote machine via SSH.
+61. ping - Check network connectivity.
+62. ifconfig - Show network interface information.
+63. ip - Configure IP addresses and routing.
+64. netstat - Show network connections.
+65. route - Show or modify IP routing table.
+66. traceroute - Show the path to a network host.
+67. nslookup - Query DNS servers.
+68. dig - Perform DNS lookups.
+69. telnet - Connect to remote machines.
+70. nc (netcat) - Read and write data over network.
+71. firewall-cmd - Configure firewalld firewall.
+72. iptables - Configure firewall rules.
+73. ufw - Simple firewall management.
+74. systemctl - Manage systemd services.
+75. service - Manage system services.
+76. journalctl - View system logs.
+77. dmesg - Display kernel messages.
+78. lspci - Show PCI device information.
+79. lsusb - Show USB device information.
+80. free - Display memory usage.
+81. vmstat - Show system performance statistics.
+82. htop - Interactive process monitor.
+83. lsof - List open files.
+84. strace - Trace system calls of a process.
+85. iostat - Show disk I/O statistics.
+86. mpstat - Show CPU usage statistics.
+87. fdisk - Manage disk partitions.
+88. mkfs - Create a new filesystem.
+89. fsck - Check and repair a filesystem.
+90. mount - Mount a filesystem.
+91. umount - Unmount a filesystem.
+92. uptime - Show system uptime.
+93. shutdown - Power off the system.
+94. reboot - Restart the system.
+95. halt - Halt the system.
+96. poweroff - Power off the system.
+97. env - Show environment variables.
+98. export - Set environment variables.
+99. unset - Remove environment variables.
+100. source - Execute a script in the current shell.
+101. nohup - Run a command immune to hangups.
+102. bg - Resume a suspended job in the background.
+103. fg - Resume a job in the foreground.
+104. jobs - List active jobs.
+105. killall - Kill processes by name.
+106. pkill - Kill processes by pattern.
+107. xargs - Build and execute commands from input.
+108. tee - Read from standard input and write to standard output and files.
+109. cut - Remove sections of each line of input.
+110. paste - Merge lines of files.
+111. diff - Compare two files line by line.
+112. cmp - Compare two files byte by byte.
+113. sort - Sort lines of text files.
+114. uniq - Remove duplicate lines.
+115. wc - Count lines, words, and characters in a file.
+116. awk - Pattern scanning and processing language.
+117. sed - Stream editor for modifying text.
+118. tr - Translate or delete characters.
+119. basename - Extract the file name from a path.
+120. dirname - Extract the directory name from a path.
+121. realpath - Get the absolute path of a file.
+122. test - Evaluate conditional expressions.
+123. seq - Print a sequence of numbers.
+124. yes - Output a string repeatedly until killed.
+125. watch - Run a command periodically.
+126. df - Show disk space usage.
+127. du - Show directory sizes.
+128. stat - Show detailed file information.
+129. ln - Create symbolic links.
+130. history - View command history.
+131. crontab - Schedule recurring tasks.
+132. at - Schedule a command for later execution.
+133. batch - Execute commands when system load is low.
+134. nice - Start a process with a priority.
+135. renice - Change the priority of a running process.
+136. uptime - Show system uptime.
+137. who - Show logged-in users.
+138. finger - Display user information.
+139. groups - Show the groups a user belongs to.
+140. mount - Attach a filesystem.
+141. umount - Detach a filesystem.
+142. fsck - Check and repair a filesystem.
+143. blkid - Show information about block devices.
+144. tune2fs - Adjust tunable filesystem parameters.
+145. e2fsck - Filesystem consistency check for ext2/ext3/ext4.
+146. quota - Show disk quotas.
+147. quotacheck - Scan a filesystem for disk usage.
+148. repquota - Summarize disk quotas.
+149. setquota - Edit disk quotas.
+150. mkfifo - Create named pipes (FIFOs).
